@@ -1,6 +1,7 @@
 # Subway Surfers
-The project is completed in Spring 2018. The goal of this project is to develop a game similar to 'Subway Surfers'.
+This project is completed under Prof. Amitabha Sanyal in the course "Abstractions and Paradigms for Programming"(CS152) at IITB in Spring 2018.
 
+The goal of this project is to develop a game similar to 'Subway Surfers'.
 The project is written in [Racket](https://racket-lang.org/) language.
 
 Please refer to the report document available inside `docs/` directory.
@@ -23,3 +24,6 @@ Open the file `subway_surfers.rkt` available inside the `src/` directory using t
 1. [Suraj](https://github.com/yadavsuraj20)
 2. [Aditya Sharma](https://github.com/adityasharma2000)
 3. [Rohan Abhishek S](https://github.com/rohanabhishek)
+
+## License
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
